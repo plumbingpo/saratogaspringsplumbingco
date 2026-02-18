@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saratogaspringsplumbingco.com/sitemap.xml
